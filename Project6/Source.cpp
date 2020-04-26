@@ -9,5 +9,6 @@ int main(){
 	std::cout << "Summ: " << a + b << endl;
 	std::cout << "Summ: " << a - b << endl;
 	std::cout << "Summ: " << a * b << endl;
+	std::cout << "Summ: " << a / b << endl;
 
 }
