@@ -1,0 +1,5 @@
+# folder debug
+Debug/
+
+*.o
+*.exe
