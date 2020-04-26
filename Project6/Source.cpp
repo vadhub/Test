@@ -8,5 +8,6 @@ int main(){
 	std::cin >> a >> b;
 	std::cout << "Summ: " << a + b << endl;
 	std::cout << "Summ: " << a - b << endl;
+	std::cout << "Summ: " << a / b << endl;
 
 }
